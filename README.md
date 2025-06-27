@@ -7,12 +7,12 @@ This project uses machine learning to predict whether a breast tumor is **benign
 - 🌐 Streamlit (for web app)
 
  ##  breast-cancer-predictor/
-├── app.py                   # Streamlit web app
-├── main.ipynb              # Jupyter notebook with training code
-├── svc_linear_model.pkl     # Trained model
-├── breast_cancer.csv        # Dataset
-├── requirements.txt         # Dependencies
-├── README.md                # Project overview
+ - ├── app.py                   # Streamlit web app
+ - ├── main.ipynb              # Jupyter notebook with training code
+ - ├── svc_linear_model.pkl     # Trained model
+ - ├── breast_cancer.csv        # Dataset
+ - ├── requirements.txt         # Dependencies
+ - ├── README.md                # Project overview
 
 
 ## 📂 Files
